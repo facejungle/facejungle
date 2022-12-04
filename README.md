@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm facejungle</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h1 align="center">👋 Hello, I'm Andrey. Frontend development is my hobby.</h1>
+<h3>I am mainly interested in the development of multifunctional projects closely related to business.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=facejungle&label=Profile%20views&color=0e75b6&style=flat" alt="facejungle" /> </p>
 
