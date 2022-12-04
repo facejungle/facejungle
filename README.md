@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **110752838+facejungle@users.noreply.github.com**
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facejungle&show_icons=true&locale=en&layout=compact" alt="facejungle" />
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=facejungle&show_icons=true&locale=en" alt="facejungle" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facejungle&show_icons=true&locale=en&layout=compact" alt="facejungle" />
 </p>
 <p> <img src="https://komarev.com/ghpvc/?username=facejungle&label=Profile%20views&color=0e75b6&style=flat" alt="facejungle" /> </p>
 <p align="left"> <a href="https://twitter.com/facejungle" target="blank"><img src="https://img.shields.io/twitter/follow/facejungle?logo=twitter&style=for-the-badge" alt="facejungle" /></a> </p>
