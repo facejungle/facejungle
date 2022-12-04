@@ -1,6 +1,5 @@
-<h1 align="center">👋 Hello, I'm Andrey. Frontend development is my hobby.</h1>
-<h3>I am mainly interested in the development of multifunctional projects closely related to business.</h3>
-
+<h1>👋 Hello, I'm Andrey. Frontend development is my hobby.</h1>
+<p>At the moment, development is not a means of earning money, but I am always ready to work in a team🤝 I am mainly interested in the development of multifunctional projects that are closely related to business.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=facejungle&label=Profile%20views&color=0e75b6&style=flat" alt="facejungle" /> </p>
 
 <p align="left"> <a href="https://twitter.com/facejungle" target="blank"><img src="https://img.shields.io/twitter/follow/facejungle?logo=twitter&style=for-the-badge" alt="facejungle" /></a> </p>
