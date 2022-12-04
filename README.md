@@ -16,7 +16,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facejungle&show_icons=true&locale=en&layout=compact" alt="facejungle" />
 </p>
 <p> <img src="https://komarev.com/ghpvc/?username=facejungle&label=Profile%20views&color=0e75b6&style=flat" alt="facejungle" /> </p>
-<p align="left"> <a href="https://twitter.com/facejungle" target="blank"><img src="https://img.shields.io/twitter/follow/facejungle?logo=twitter&style=for-the-badge" alt="facejungle" /></a> </p>
+<p align="left">
+  <a href="https://vk.com/face_jungle" target="blank">
+    <img src="https://img.shields.io/vk/follow/face_jungle?logo=twitter&style=for-the-badge" alt="facejungle" />
+  </a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/facejungle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="facejungle" height="30" width="40" /></a>
