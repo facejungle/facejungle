@@ -26,7 +26,7 @@
   <a href="https://github.com/facejungle/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="facejungle" height="30" width="40" />
   </a>
-  <a href="https://vk.com/facejungle/" target="blank">
+  <a href="https://vk.com/face_jungle/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="facejungle" height="30" width="40" />
   </a>
 </p>
