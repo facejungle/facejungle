@@ -1,17 +1,12 @@
 <h1>👋 Hello, I'm Andrey. Frontend development is my hobby.</h1>
 <p>At the moment, development is not a means of earning money, but I am always ready to work in a team🤝 I am mainly interested in the development of multifunctional projects that are closely related to business.</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=facejungle&label=Profile%20views&color=0e75b6&style=flat" alt="facejungle" /> </p>
-
-<p align="left"> <a href="https://twitter.com/facejungle" target="blank"><img src="https://img.shields.io/twitter/follow/facejungle?logo=twitter&style=for-the-badge" alt="facejungle" /></a> </p>
-
 - 🔭 I’m currently working on [EQUD](https://github.com/facejungle/EQUD)
-
+- 🔭 I’m currently working on [EQUD](https://github.com/facejungle/EQUD)
 - 🌱 I’m currently learning **Bash, processing, python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/facejungle/](https://github.com/facejungle/)
-
 - 📫 How to reach me **110752838+facejungle@users.noreply.github.com**
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=facejungle&label=Profile%20views&color=0e75b6&style=flat" alt="facejungle" /> </p>
+<p align="left"> <a href="https://twitter.com/facejungle" target="blank"><img src="https://img.shields.io/twitter/follow/facejungle?logo=twitter&style=for-the-badge" alt="facejungle" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/facejungle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="facejungle" height="30" width="40" /></a>
