@@ -1,4 +1,4 @@
-<h1>👋 Hello, I'm Andrey. Development is my hobby.</h1>
+<h1>👋 Hello, I'm Andrey</h1>
 <p>At the moment, development is not a means of earning money, but I am always ready to work in a team🤝 I am mainly interested in the development of multifunctional projects that are closely related to business.</p>
 
 - 🔭 I’m currently working on [EQUD](https://github.com/facejungle/EQUD)
