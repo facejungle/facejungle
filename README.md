@@ -5,7 +5,7 @@
 
 - 🏄‍♀️ I’m next working on [srub35](https://xn--35-9kc3den.xn--p1ai/)
 
-- 🌱 I’m currently learning **Bash, processing, python**
+- 🌱 I’m currently learning **Python, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/facejungle/](https://github.com/facejungle/)
 
