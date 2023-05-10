@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/facejungle/](https://github.com/facejungle/)
 
-- 📫 How to reach me **110752838+facejungle@users.noreply.github.com**
+- 📫 How to reach me **sqinx@ya.ru**
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=facejungle&show_icons=true&locale=en" alt="facejungle" />
