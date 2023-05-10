@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **sqinx@ya.ru**
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facejungle&" alt="facejungle" /></p>
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facejungle&show_icons=true&locale=en&layout=compact" alt="facejungle" />
 </p>
@@ -65,6 +64,8 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facejungle&" alt="facejungle" /></p>
+
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=facejungle&show_icons=true&locale=en" alt="facejungle" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facejungle&show_icons=true&locale=en&layout=compact" alt="facejungle" />
 </p>
