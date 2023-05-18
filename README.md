@@ -53,8 +53,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facejungle" alt="facejungle" /></a> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facejungle&" alt="facejungle" /></p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=facejungle&show_icons=true&locale=en" alt="facejungle" />
