@@ -1,6 +1,6 @@
 <h1>👋 Hello, I'm Andrey</h1>
 
-- 🔭 I’m currently working on [EQUD](https://github.com/facejungle/EQUD)
+- 🔭 I’m currently working on [LSTM AI Coach](https://github.com/facejungle/lstm_coach)
 
 - 🏄‍♀️ I’m next working on [srub35](https://xn--35-9kc3den.xn--p1ai/)
 
