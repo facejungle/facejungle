@@ -1,19 +1,9 @@
 <h1>👋 Hello, I'm Andrey</h1>
 
-- 🔭 I’m currently working on [LSTM AI Coach](https://github.com/facejungle/lstm_coach)
-
-- 🏄‍♀️ I’m next working on [srub35](https://xn--35-9kc3den.xn--p1ai/)
-
-- 🌱 I’m currently learning **Next.js 13, TypeScript, React**
-
+- 🔭 I’m currently working on [FJ Chat to Speech](https://github.com/facejungle/fj_chat_to_speech/)
+- 🌱 I’m currently learning **Rust**
 - 👨‍💻 All of my projects are available at [https://github.com/facejungle/](https://github.com/facejungle/)
 
-- 📫 How to reach me **sqinx@ya.ru**
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facejungle&show_icons=true&locale=en&layout=compact" alt="facejungle" />
- </p>
- <p><img src="https://komarev.com/ghpvc/?username=facejungle&label=Profile%20views&color=0e75b6&style=flat" alt="facejungle" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.facebook.com/facejungle/" target="_blank">
@@ -58,3 +48,6 @@ a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
 </p>
+
+
+<img src="https://komarev.com/ghpvc/?username=facejungle&label=Profile%20views&color=0e75b6&style=flat" alt="facejungle" />
